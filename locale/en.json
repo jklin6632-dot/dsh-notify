@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop notifications",
+    "description": "Shows a Windows notification when a turn finishes or an approval is requested, without bringing the DSH window forward."
+  }
+}
