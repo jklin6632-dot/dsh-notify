@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "桌面通知",
+    "description": "任务结束或请求授权时弹出 Windows 通知，不把 DSH 窗口切到前台。"
+  }
+}
