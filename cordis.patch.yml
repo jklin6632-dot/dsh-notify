@@ -1,0 +1,14 @@
+- insert:
+    - id: dsh-notify
+      name: 'dsh-notify'
+      config:
+        enabled: true
+        onTurnEnd: true
+        onApproval: true
+        onQuestion: true
+        muteSubagents: true
+        skipWhenFocused: true
+        notifyOnLoad: true
+        minIntervalMs: 1200
+        autoCloseMs: 0
+        appPattern: '*DeepSeek*'
